@@ -1,3 +1,3 @@
-# Welcome to my blog
+# Millcreek, UT GIS Git Repo
 
-I'm glad you are here. I plan to talk about ...
+I'm glad you are here. I plan to talk about python and geojson.
